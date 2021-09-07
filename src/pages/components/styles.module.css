@@ -1,0 +1,38 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.socialLinkListContainer {
+  margin: 1.2rem 0 1.6rem;
+}
+
+.socialLinkList {
+  list-style: none outside;
+}
+
+.socialLinkList a {
+  font-size: 1rem;
+  width: 100%;
+}
+
+.socialLinkList li {
+  display: inline-block;
+  margin: 0 0.6rem 0 0;
+  width: 16%;
+}
+
+@media screen and (max-width: 966px) {
+  .socialLinkListContainer {
+    margin-bottom: 1.6rem;
+  }
+
+  .socialLinkList li {
+    display: flex;
+    margin: 1.6rem 0;
+    width: 50%;
+  }
+
+  .socialLinkList a {
+    padding: 1rem;
+    text-align: left;
+    width: 100%;
+  }
+}

@@ -1,0 +1,137 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #0f9d58;
+  --ifm-color-primary-dark: #0d8d4f;
+  --ifm-color-primary-darker: #0d854b;
+  --ifm-color-primary-darkest: #0a6e3e;
+  --ifm-color-primary-light: #10ad61;
+  --ifm-color-primary-lighter: #11b565;
+  --ifm-color-primary-lightest: #13cc72;
+  --ifm-color-secondary: #878787;
+  --ifm-color-secondary-dark: #616161;
+  --ifm-color-secondary-darker: #2e2e2e;
+  --ifm-color-secondary-darkest: #141414;
+  --ifm-color-secondary-light: #adadad;
+  --ifm-color-secondary-lighter: #d4d4d4;
+  --ifm-color-secondary-lightest: #ededed;
+  --ifm-navbar-background-color: #141414;
+  --ifm-background-color: #141414;
+  --ifm-color-success: #0f9d58;
+  --ifm-color-warning: #f4b400;
+  --ifm-color-danger: #db4437;
+  --ifm-link-color: #0f9d58;
+  --ifm-code-font-size: 95%;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.textUpper {
+  text-transform: uppercase;
+}
+
+.colorSuccess {
+  color: var(--ifm-color-success);
+}
+
+.colorWarning {
+  color: var(--ifm-color-warning);
+}
+
+.colorDanger {
+  color: var(--ifm-color-danger);
+}
+
+.bgColorSuccess {
+  background-color: var(--ifm-color-success);
+}
+
+.bgColorDanger {
+  background-color: var(--ifm-color-danger);
+}
+
+.underlineColorSuccess {
+  border-bottom: 4px solid var(--ifm-color-success);
+}
+
+.underlineColorWarning {
+  border-bottom: 4px solid var(--ifm-color-warning);
+}
+
+.underlineColorDanger {
+  border-bottom: 4px solid var(--ifm-color-danger);
+}
+
+.admonition a,
+.admonition a:hover {
+  color: var(--ifm-alert-color);
+  text-decoration: underline;
+}
+
+.wideBodyMaxWidth {
+  max-width: 640px;
+}
+
+.contentTableContainer table {
+  display: table;
+  text-align: left;
+  width: 100%;
+  margin: 0;
+}
+
+.contentTableContainer th:first-child {
+  width: 5%;
+}
+
+.contentTableContainer td:first-child {
+  text-align: right;
+}
+
+.contentTableContainer th:last-child {
+  width: 25%;
+}
+
+@media screen and (max-width: 966px) {
+  h1 {
+    font-size: 2.4rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
