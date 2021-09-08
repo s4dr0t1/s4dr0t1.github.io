@@ -12,9 +12,9 @@
     "serve": "docusaurus serve"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.5",
-    "@docusaurus/plugin-google-gtag": "^2.0.0-beta.5",
-    "@docusaurus/preset-classic": "2.0.0-beta.5",
+    "@docusaurus/core": "^2.0.0-beta.6",
+    "@docusaurus/plugin-google-gtag": "^2.0.0-beta.6",
+    "@docusaurus/preset-classic": "^2.0.0-beta.6",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@fortawesome/free-regular-svg-icons": "^5.15.1",
