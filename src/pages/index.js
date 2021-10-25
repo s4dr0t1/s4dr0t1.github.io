@@ -85,7 +85,7 @@ function Home() {
                   I mostly go by the <b>s4dr0t1</b> moniker online.
                 </p>
                 <p>
-                  If you have something, you want to talk to me about, hit me up on my socials or through {" "}<a href="mailto:contact@rohitdhill.me">email</a>. You can check out my PGP key {useBaseUrl("/static/s4dr0t1.asc")} 
+                  If you have something, you want to talk to me about, hit me up on my socials or through {" "}<a href="mailto:contact@rohitdhill.me">email</a>. You can check out my PGP key {" "}<a href="https://raw.githubusercontent.com/s4dr0t1/s4dr0t1.github.io/main/static/s4dr0t1.asc">here</a> 
                 </p>
 
                 {/* <p>
