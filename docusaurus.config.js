@@ -1,3 +1,7 @@
+//including katex and shit 
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 //defining some constants which will be used throughout this configuration file
 const internetProfiles = {
   linkedin: {
@@ -137,6 +141,8 @@ module.exports = {
           disableVersioning: false,
           editCurrentVersion: false,
           sidebarCollapsed: true,
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
           // Please change this to your repo.
           // editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
         },
@@ -161,6 +167,15 @@ module.exports = {
         },
       },
     ],
+  ],
+
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      integrity:
+        'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous',
+    },
   ],
 
   // scripts: [    
