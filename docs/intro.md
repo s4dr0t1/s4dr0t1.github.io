@@ -3,9 +3,6 @@ title: Introduction
 sidebar_position: 1
 slug: /
 ---
+> The "why" of this website?
 
-# Hello
-
-I created this website in order to give back to the community.
-
-I write and share stuff revolving around the Information Security space here, mainly, about the things I have learnt, or I'm learning. :-D
+This website was created with the thought of giving back to the community in mind. I write about tech, and mainly stuff related to Information Security here.

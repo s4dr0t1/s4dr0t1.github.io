@@ -42,11 +42,11 @@ function Home() {
             style={{ minHeight: bannerHeight }}
           >
             <p className="colorSuccess">
-              <b>Hi, I'm</b>
+              <b>Hello, this is</b>
             </p>
             <h1>
-              <span className="colorWarning">Rohit</span>{" "}
-              <span className="colorDanger">Dhill</span>
+              <span className="colorWarning">Rohit's</span>{" "}
+              <span className="colorDanger">Blog</span>
             </h1>
             <p>{siteConfig.tagline}</p>
             <SocialLinks />
@@ -78,7 +78,7 @@ function Home() {
                   <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> pursuing B.Tech in the Computer Science discipline.
                 </p>
                 <p>
-                  I have a very deep affection towards everything and anything related to Cyber Security. Reading about things and tinkering with them in my home-lab environment is how my day goes by.
+                  I have very deep affection towards everything and anything related to Cyber Security. Reading about things and tinkering with them in my home-lab environment is how my day goes by.
                 </p>
                 <p>
                   Apart from breaking things, I also enjoy building them.

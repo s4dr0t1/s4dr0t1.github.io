@@ -46,8 +46,8 @@ const internetProfiles = {
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   //website metadata
-  title: 'Rohit Dhill',
-  tagline: 'A CS Undergrad with penchant for Offensive Security\n Sophomore at MNIT Jaipur',
+  title: "Rohit's Blog",
+  tagline: 'Stuff about compters and security | Undergraduate student at MNIT Jaipur',
   favicon: '/img/logo.png',
 
   //deployment configuration
@@ -59,6 +59,7 @@ module.exports = {
 
   //theme configuration
   themeConfig: {
+    image: '/img/opengraph.png', //open graph image
     hideableSidebar: true, //for documentation
     prism: {
       //add additional languages here if need be, has prism as its dependency
