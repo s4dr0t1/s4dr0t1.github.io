@@ -45,6 +45,7 @@ const internetProfiles = {
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  plugins: ['@docusaurus/plugin-ideal-image'],
   //website metadata
   title: "Rohit's Blog",
   tagline: 'Stuff about compters and security | Undergraduate student at MNIT Jaipur',
