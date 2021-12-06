@@ -48,7 +48,7 @@ module.exports = {
   plugins: ['@docusaurus/plugin-ideal-image'],
   //website metadata
   title: "Rohit's Blog",
-  tagline: 'Stuff about compters and security | Undergraduate student at MNIT Jaipur',
+  tagline: 'Stuff about computers and security | Undergraduate student at MNIT Jaipur',
   favicon: '/img/logo.png',
 
   //deployment configuration
