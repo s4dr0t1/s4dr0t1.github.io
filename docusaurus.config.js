@@ -12,10 +12,10 @@ const internetProfiles = {
     label: "GitHub",
     href: "https://github.com/s4dr0t1",
   },
-  email: {
-    label: "Email",
-    href: "mailto:contact@rohitdhill.me",
-  },
+//  email: {
+//    label: "Email",
+//    href: "mailto:contact@rohitdhill.me",
+//      },
   twitter: {
     label: "Twitter",
     href: "https://twitter.com/s4dr0t1",
@@ -52,7 +52,7 @@ module.exports = {
   favicon: '/img/logo.png',
 
   //deployment configuration
-  url: 'https://rohitdhill.me',
+  url: 'https://s4dr0t1.github.io',
   baseUrl: '/',
   projectName: 's4dr0t1.github.io', // github repo name
   organizationName: 's4dr0t1', // github username
