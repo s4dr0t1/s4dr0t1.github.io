@@ -2,46 +2,6 @@
 const math = require('remark-math');
 const katex = require('rehype-katex');
 
-//defining some constants which will be used throughout this configuration file
-const internetProfiles = {
-  linkedin: {
-    label: "LinkedIn",
-    href: "https://www.linkedin.com/in/rohitdhill/",
-  },
-  github: {
-    label: "GitHub",
-    href: "https://github.com/s4dr0t1",
-  },
-//  email: {
-//    label: "Email",
-//    href: "mailto:contact@rohitdhill.me",
-//      },
-  twitter: {
-    label: "Twitter",
-    href: "https://twitter.com/s4dr0t1",
-  },
-  keybase: {
-    label: "Keybase",
-    href: "https://keybase.io/s4dr0t1",
-  },
-  blog: {
-    label: "Blog",
-    to: "blog",
-  },
-  docs: {
-    label: "My Infosec Ramblings",
-    to: "docs",
-  },
-  projects: {
-    label: "Projects",
-    to: "projects",
-  },
-  about: {
-    label: "About",
-    to: "/#about",
-  },
-};
-
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -106,22 +66,45 @@ module.exports = {
       style: 'light',
       links: [
         {
-          title: "Connect",
+          title: 'Connect',
           items: [
-            internetProfiles.linkedin,
-            internetProfiles.github,
-            internetProfiles.twitter,
-            internetProfiles.keybase,
-            internetProfiles.email,
+            {
+              label: "LinkedIn",
+              href: "https://www.linkedin.com/in/rohitdhill/",
+            },
+            {
+              label: "GitHub",
+              href: "https://github.com/s4dr0t1",
+            },
+            {
+              label: "Twitter",
+              href: "https://twitter.com/s4dr0t1",
+            },
+            {
+              label: "Keybase",
+              href: "https://keybase.io/s4dr0t1",
+            },
           ],
         },
         {
-          title: 'Discover',
+          title: 'Links',
           items: [
-            internetProfiles.about,
-            internetProfiles.blog,
-            internetProfiles.docs,
-            internetProfiles.projects,
+            {
+              label: "Blog",
+              to: "blog",
+            },
+            {
+              label: "My Infosec Ramblings",
+              to: "docs",
+            },
+            {
+              label: "Projects",
+              to: "projects",
+            },
+            {
+              label: "About",
+              to: "/#about",
+            },
           ],
         },
       ],
