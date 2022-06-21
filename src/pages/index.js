@@ -41,23 +41,20 @@ function Home() {
             className={styles.heroBannerText}
             style={{ minHeight: bannerHeight }}
           >
-            <p className="colorSuccess">
-              <b>Hello, this is</b>
+            <p>
+              Hello, this is
             </p>
-            <h1>
-              <span className="colorWarning">Rohit's</span>{" "}
-              <span className="colorDanger">Blog</span>
+            <h1 className="colorSuccess">
+              Rohit's blog
             </h1>
             <p>{siteConfig.tagline}</p>
             <SocialLinks />
-            <nav className={clsx("pagination-nav", styles.heroBannerButton)}>
-              <div className="pagination-nav__item">
-                <Link className="pagination-nav__link" to={useBaseUrl("#about")}>
-                  <div className="pagination-nav__sublabel">Read my</div>
-                  <div className="pagination-nav__label">Introduction</div>
-                </Link>
-              </div>
-            </nav>
+            <p class="heroCTA">
+              Find out more about me{" "}
+              <Link to={useBaseUrl("#about")}>
+                below
+              </Link>!
+            </p>
           </div>
         </div>
       </header>
@@ -74,18 +71,21 @@ function Home() {
               <div className="col col--9">
                 <h2>Hello, </h2>
                 <p>
-                  I'm currently a sophomore at{" "}
+                  I'm currently a pre-final year student at{" "}
                   <a href="https://mnit.ac.in/">Malaviya National Institute of Technology, Jaipur</a> pursuing B.Tech in the Computer Science discipline.
                 </p>
                 <p>
                   I have very deep affection towards everything and anything related to Cyber Security. Reading about things and tinkering with them in my home-lab environment is how my day goes by.
                 </p>
                 <p>
+                  My interest lies in system security, wireless security, and low level system programming.
+                </p>
+                <p>
                   Apart from breaking things, I also enjoy building them.
                   I mostly go by the <b>s4dr0t1</b> moniker online.
                 </p>
                 <p>
-                  If you have something, you want to talk to me about, hit me up on my socials or through {" "}<a href="mailto:contact@rohitdhill.me">email</a>. You can check out my PGP key {" "}<a href="https://raw.githubusercontent.com/s4dr0t1/s4dr0t1.github.io/main/static/s4dr0t1.asc">here</a> 
+                  If you have something, you want to talk to me about, hit me up on my socials or through {" "}<a href="mailto:contact@rohitdhill.me">email</a>. You can check out my PGP key {" "}<a href="https://raw.githubusercontent.com/s4dr0t1/s4dr0t1.github.io/main/static/s4dr0t1.asc">here</a>
                 </p>
 
                 {/* <p>

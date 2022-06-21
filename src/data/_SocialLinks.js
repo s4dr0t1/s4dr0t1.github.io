@@ -1,5 +1,5 @@
-import { faAirFreshener, faEnvelope } from "@fortawesome/free-regular-svg-icons";
-import { faLinkedin, faGithub, faTwitter } from "@fortawesome/free-brands-svg-icons";
+import { faPaperPlane } from "@fortawesome/free-solid-svg-icons";
+import { faLinkedin, faGithub, faTwitter, faKeybase } from "@fortawesome/free-brands-svg-icons";
 
 const socialLinks = [
   {
@@ -18,7 +18,12 @@ const socialLinks = [
     url: "https://twitter.com/s4dr0t1",
   },
   {
-    faIcon: faEnvelope,
+    faIcon: faKeybase,
+    alt: "Keybase",
+    url: "https://keybase.io/s4dr0t1",
+  },
+  {
+    faIcon: faPaperPlane,
     alt: "Email",
     url: "mailto:contact@rohitdhill.me  ",
   },
