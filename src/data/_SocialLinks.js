@@ -1,5 +1,5 @@
 import { faPaperPlane } from "@fortawesome/free-solid-svg-icons";
-import { faLinkedin, faGithub, faTwitter, faKeybase } from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin, faGithub, faTwitter, faKeybase, faRedditAlien, faHackerNews } from "@fortawesome/free-brands-svg-icons";
 
 const socialLinks = [
   {
@@ -21,6 +21,16 @@ const socialLinks = [
     faIcon: faKeybase,
     alt: "Keybase",
     url: "https://keybase.io/s4dr0t1",
+  },
+  {
+    faIcon: faHackerNews,
+    alt: "HackerNews",
+    url: "https://news.ycombinator.com/user?id=s4dr0t1",
+  },
+  {
+    faIcon: faRedditAlien,
+    alt: "Reddit",
+    url: "https://www.reddit.com/user/s4dr0t1",
   },
   {
     faIcon: faPaperPlane,

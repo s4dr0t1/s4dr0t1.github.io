@@ -84,6 +84,18 @@ module.exports = {
               label: "Keybase",
               href: "https://keybase.io/s4dr0t1",
             },
+            {
+              label: "HackerNews",
+              href: "https://news.ycombinator.com/submitted?id=s4dr0t1",
+            },
+            {
+              label: "Reddit",
+              href: "https://www.reddit.com/user/s4dr0t1",
+            },
+            {
+              label: "Keybase",
+              href: "https://keybase.io/s4dr0t1",
+            },
           ],
         },
         {
