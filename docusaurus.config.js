@@ -24,7 +24,7 @@ module.exports = {
     hideableSidebar: true, //for documentation
     prism: {
       //add additional languages here if need be, has prism as its dependency
-      additionalLanguages: ['powershell'],
+      additionalLanguages: ['powershell', 'nasm'],
     },
 
     colorMode: {
