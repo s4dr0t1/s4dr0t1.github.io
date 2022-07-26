@@ -35,7 +35,7 @@ const socialLinks = [
   {
     faIcon: faPaperPlane,
     alt: "Email",
-    url: "mailto:contact@rohitdhill.me  ",
+    url: "mailto:s4dr0t1@protonmail.com",
   },
 ];
 
