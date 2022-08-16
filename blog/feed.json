@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rohit's Blog Blog",
+    "home_page_url": "https://s4dr0t1.github.io/blog",
+    "description": "RSS feed for my blog",
+    "items": [
+        {
+            "id": "testing-page",
+            "content_html": null,
+            "url": "https://s4dr0t1.github.io/blog/testing-page",
+            "title": "Test",
+            "summary": "Test",
+            "date_modified": "2021-09-07T00:00:00.000Z",
+            "author": {
+                "name": "Rohit Dhill",
+                "url": "/#about"
+            },
+            "tags": [
+                "testing"
+            ]
+        }
+    ]
+}

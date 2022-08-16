@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrohitdhill_me=self.webpackChunkrohitdhill_me||[]).push([[392],{9610:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/testing","name":"testing","count":1,"permalink":"/blog/tags/testing"}')}}]);
