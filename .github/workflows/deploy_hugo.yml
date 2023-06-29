@@ -20,14 +20,14 @@ jobs:
       -
         uses: actions/checkout@v3
         with:
-          submodules: true
+          submodules: recursive
           fetch-depth: 0
 
       -
         name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo_version: '0.114.1'
+          hugo-version: '0.114.1'
           extended: true
 
       - name: Build
