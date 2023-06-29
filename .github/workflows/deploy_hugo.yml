@@ -1,0 +1,38 @@
+# Name of the workflow
+name: Build the Hugo website
+run-name: Hugo build
+
+# List of events that trigger the workflow
+on:
+  push:
+    branches: [main]
+
+
+# What to do when the workflow is triggered (parallelism is also possible)
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Checkout the repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      -
+        name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo_version: '0.114.1'
+          extended: true
+
+      - 
+        name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: gh-pages
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
