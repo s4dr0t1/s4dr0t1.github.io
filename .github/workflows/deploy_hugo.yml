@@ -25,8 +25,7 @@ jobs:
 
       -
         name: Install hugo via brew
-        steps:
-          - run: brew install hugo
+        run: brew install hugo
 
       - name: Build
         run: hugo --minify
