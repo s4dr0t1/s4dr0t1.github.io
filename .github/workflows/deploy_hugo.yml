@@ -24,11 +24,9 @@ jobs:
           fetch-depth: 0
 
       -
-        name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.114.1'
-          extended: true
+        name: Install hugo via brew
+        steps:
+          - run: brew install hugo
 
       - name: Build
         run: hugo --minify
