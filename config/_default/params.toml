@@ -31,7 +31,7 @@ tocopen = false
 [homeInfoParams]
 Title = "[~]$ whoami?"
 Content = """
-A budding security researcher with interests in reverse engineering, binary exploitation, wireless and network security. [Read more](/about)
+A budding security researcher with interests in reverse engineering, binary exploitation, wireless and network security.
 
 - [About](/about): About me
 - [Blog](/archives): Blog posts
