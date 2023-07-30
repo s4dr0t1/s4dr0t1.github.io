@@ -20,6 +20,7 @@ Preferable medium:
 
 My other handles:
 - [Mastodon](https://ioc.exchange/@s4dr0t1)
+- [Lemmy](https://lemmy.ml/u/s4dr0t1)
 - [GitHub](https://github.com/s4dr0t1)
 - [Reddit](https://www.reddit.com/user/s4dr0t1)
 - [HackerNews](https://news.ycombinator.com/user?id=s4dr0t1)
