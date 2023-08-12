@@ -31,11 +31,9 @@ tocopen = false
 [homeInfoParams]
 Title = "[~]$ whoami?"
 Content = """
-A budding security researcher with interests in reverse engineering, binary exploitation, wireless and network security.
+Hi, I'm Rohit (@s4dr0t1). I'm a budding security researcher with interests in reverse engineering, binary exploitation, wireless and network security.
 
-- [About](/about): About me
-- [Blog](/archives): Blog posts
-- [Contact](/contact): Contact me
+[ [About](/about) ] [ [Blog](/archives) ] [ [Contact](/contact) ] [ [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/CAAF47E471E769D34DC3912F950AD2384C65B8B3) ]
 """
 
 [[socialIcons]]
