@@ -1,39 +1,10 @@
-# SEO information
-keywords = [
-	"Cybersecurity",
-	"Blog",
-	"Portfolio"
-]
-
-# Appearance
-env = 'production' 	# Enable OpenGraph protocol
-#images = "/link"
-
-defaultTheme = 'auto'
-DisableThemeToggle = false
-
-ShowReadingTime = true
-ShowShareButtons = false
-ShowPostNavLinks = true
-ShowBreadCrumbs = false
-ShowCodeCopyButtons = true
-ShowWordCount = true
-ShowRssButtonInSectionTermList = true
-UseHugoToc = true
-disableSpecial1stPost = false
-disableScrollToTop = false
-comments = false
-hidemeta = false
-hideSummary = false
-showtoc = true
-tocopen = false
-
+# Homepage visible information
 [homeInfoParams]
 Title = "[~]$ whoami?"
 Content = """
-Hi, I'm Rohit (@s4dr0t1). I'm a budding security researcher with interests in reverse engineering, binary exploitation, wireless and network security.
+Hi, I'm Rohit (@s4dr0t1). I'm a budding security researcher with interests in blue teaming, reverse engineering, binary exploitation, wireless and network security.
 
-[ [About](/about) ] [ [Blog](/archives) ] [ [Contact](/contact) ] [ [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/CAAF47E471E769D34DC3912F950AD2384C65B8B3) ]
+[ [About](/about) ] [ [Blog](/archives) ] [ [Contact](/contact) ] [ [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/B93E806F0DA033094B801EA69FA224D074C72FD9) ]
 """
 
 [[socialIcons]]
@@ -47,3 +18,69 @@ url = "https://www.linkedin.com/in/rohitdhill/"
 [[socialIcons]]
 name = "More information"
 url = "/contact"
+env = 'production'        # Enable OpenGraph protocol
+
+
+# Other configurable stuff
+#images = "/link"
+author = "s4dr0t1"
+DateFormat = "January 2, 2006"
+defaultTheme = "light"
+DisableThemeToggle = false
+ShowReadingTime = false
+ShowShareButtons = false
+disableAnchoredHeadings = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = true
+tocopen = false
+
+
+# Explore this
+#[cover]
+#hidden = true
+#hiddenInList = true
+#hiddenInSingle = true
+
+
+#[assets]
+#favicon = "<link / abs url>"
+#favicon16x16 = "<link / abs url>"
+#favicon32x32 = "<link / abs url>"
+#apple_touch_icon = "<link / abs url>"
+#safari_pinned_tab = "<link / abs url>"
+
+
+# SEO shit
+title = "A security research blog - by Rohit Dhill (@s4dr0t1)"
+
+description = "A security research blog - by Rohit Dhill (@s4dr0t1), specializing in blue teaming, reverse engineering, system internals, and trusted computing stuff. Featuring technical write-ups, security research, and blue team insights."
+
+keywords = [
+	"Cybersecurity",
+	"Blog",
+	"Portfolio",
+	"s4dr0t1",
+	"Rohit Dhill",
+	"Security Research",
+	"Reverse engineering",
+	"Low level programming",
+	"Detection Engineering",
+	"Blue Teaming",
+	"Cryptography",
+	"Systems programming",
+	"OS internals",
+	"Networking",
+	"Hypervisors",
+	"Privacy",
+	"Trusted Computing",
+]
