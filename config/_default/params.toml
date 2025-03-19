@@ -1,32 +1,10 @@
-# Homepage visible information
-[homeInfoParams]
-Title = "[~]$ whoami?"
-Content = """
-Hi, I'm Rohit (@s4dr0t1). I'm a budding security researcher with interests in blue teaming, reverse engineering, binary exploitation, wireless and network security.
-
-[ [About](/about) ] [ [Blog](/archives) ] [ [Contact](/contact) ] [ [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/B93E806F0DA033094B801EA69FA224D074C72FD9) ]
-"""
-
-[[socialIcons]]
-name = "github"
-url = "https://github.com/s4dr0t1"
-
-[[socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/rohitdhill/"
-
-[[socialIcons]]
-name = "More information"
-url = "/contact"
-env = 'production'        # Enable OpenGraph protocol
-
-
 # Other configurable stuff
 #images = "/link"
+env = 'production'                    # Enable OpenGraph protocol
 author = "s4dr0t1"
 DateFormat = "January 2, 2006"
 defaultTheme = "light"
-DisableThemeToggle = false
+disableThemeToggle = false
 ShowReadingTime = false
 ShowShareButtons = false
 disableAnchoredHeadings = false
@@ -84,3 +62,24 @@ keywords = [
 	"Privacy",
 	"Trusted Computing",
 ]
+
+# Homepage visible information
+[homeInfoParams]
+Title = "[~]$ whoami?"
+Content = """
+Hi, I'm Rohit (@s4dr0t1). I'm a budding security researcher with interests in blue teaming, reverse engineering, binary exploitation, wireless and network security.
+
+[ [About](/about) ] [ [Blog](/archives) ] [ [Contact](/contact) ] [ [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/B93E806F0DA033094B801EA69FA224D074C72FD9) ]
+"""
+
+[[socialIcons]]
+name = "github"
+url = "https://github.com/s4dr0t1"
+
+[[socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/rohitdhill/"
+
+[[socialIcons]]
+name = "More information"
+url = "/contact"
