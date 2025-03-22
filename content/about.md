@@ -16,4 +16,4 @@ In no specific order, my interests include:
 - **other security stuff**: cryptography, networking, privacy and digital security
 - **other computing interests**: programming language theory, distributed systems, site reliability engineering, parallelism and compilers
 
-Feel free to [reach out](/contact) if you'd like to discuss security, collaborate on projects, or share ideas. Have a good day! :)
+Feel free to [reach out](/contact) if you'd like to discuss security, collaborate on projects, or share ideas. To get an idea of what things I've been working on recently, check [this](/now). Have a good day! :)
