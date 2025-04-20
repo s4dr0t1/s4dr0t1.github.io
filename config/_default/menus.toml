@@ -2,24 +2,24 @@
 
 [[main]]
 identifier = "about-me"
-name = "About"
+name = "about"
 url = "/about/"
 weight = 10
 
 [[main]]
 identifier = "contact-me"
-name = "Contact"
+name = "contact"
 url = "/contact/"
 weight = 10
 
 [[main]]
 identifier = "archives"
-name = "Blog"
+name = "blog"
 url = "/archives"
 weight = 10
 
 [[main]]
 identifier = "now"
-name = "Now"
+name = "now"
 url = "/now/"
 weight = 10
