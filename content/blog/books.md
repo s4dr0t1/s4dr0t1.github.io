@@ -1,7 +1,7 @@
 +++
 # See this link for more information: https://gohugo.io/content-management/front-matter/
 
-title= "Book to read"
+title= "Books that I recommend you should read"
 date= 2025-04-18T20:19:00+05:30
 
 # Configurable stuff
