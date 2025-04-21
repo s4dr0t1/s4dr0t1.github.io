@@ -33,3 +33,4 @@ This would be an always-updating list of books that I have read (completely or t
 - [Operating System Concepts](https://www.wiley.com/en-us/Operating+System+Concepts%2C+10th+Edition-p-9781119320913) (by Abraham Silberschatz, Peter B. Galvin and Greg Gagne )
 - [Engineering a Compiler](https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) (by Keith D. Cooper and Linda Torczon)
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/) (by Randal E. Bryant and David R. O'Hallaron)
+- [Essential Computer Science: A Programmer’s Guide to Foundational Concepts](https://www.oreilly.com/library/view/essential-computer-science/9781484271070/) (byPaul D. Crutcher, Neeraj Kumar Singh and Peter Tiegs)
