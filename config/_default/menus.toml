@@ -23,3 +23,9 @@ identifier = "now"
 name = "now"
 url = "/now/"
 weight = 10
+
+[[main]]
+identifier = "notes"
+name = "notes"
+url = "https://notes.s4dr0t1.cc"
+weight = 20

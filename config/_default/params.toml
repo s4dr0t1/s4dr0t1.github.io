@@ -69,7 +69,7 @@ Title = "[~]$ whoami?"
 Content = """
 Hi, I'm Rohit (@s4dr0t1). I'm a budding security researcher with interests in blue teaming, reverse engineering, binary exploitation, wireless and network security.
 
-[ [about](/about) ] [ [blog](/archives) ] [ [contact](/contact) ] [ [pgp](https://keys.openpgp.org/vks/v1/by-fingerprint/B93E806F0DA033094B801EA69FA224D074C72FD9)]
+[ [about](/about) ] [ [blog](/archives) ] [ [notes](https://notes.s4dr0t1.cc) ] [ [contact](/contact) ] [ [pgp](https://keys.openpgp.org/vks/v1/by-fingerprint/B93E806F0DA033094B801EA69FA224D074C72FD9) ]
 """
 
 [[socialIcons]]

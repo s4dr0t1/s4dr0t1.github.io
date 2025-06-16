@@ -6,14 +6,16 @@ comments = false
 hidemeta = true
 +++
 
-Hey! My name's Rohit and I am a threat detection engineer by trade, currently employed at [CRED](https://cred.club/), where I deal with blue teaming stuff day in and day out (more on this later). I completed my bachelor's degree in Computer Science and Engineering from [MNIT Jaipur](https://en.wikipedia.org/wiki/Malaviya_National_Institute_of_Technology,_Jaipur).
+Hello internet stranger! My name is Rohit and I am a threat detection engineer by trade, I currently work at [CRED](https://cred.club), a leading fintech startup based in India and help secure their infrastructure _day-in-day-out_.
 
-I have been ***extremely*** interested in computing from a very young age. I enjoy breaking things down, and then trying to understand how they work from the ground up. Apart from tech stuff, I game, watch anime, and web shows, and hit the gym frequently ;)
+I recently completed my bachelor's degree in Computer Science and Engineering from [MNIT Jaipur](https://en.wikipedia.org/wiki/Malaviya_National_Institute_of_Technology,_Jaipur).
 
-In no specific order, my interests include:
-- **blue teaming stuff**: detection engineering, incident response, security operations, cloud security, cyber threat intelligence and network security
-- **systems and low-level computing**: operating system internals, hypervisors, reverse engineering, computer architecture and trusted computing
-- **other security stuff**: cryptography, networking, privacy and digital security
-- **other computing interests**: programming language theory, distributed systems, site reliability engineering, parallelism and compilers
+I have been **extremely** interested in computing from a very young age. I find it incredibly fulfilling to break things down, and then try to understand how they work from the ground up. When I'm not doing the _tech_ things, I indulge in other hobbies of mine: anime, gaming, gym, and music.
 
-Feel free to [reach out](/contact) if you'd like to discuss security, collaborate on projects, or share ideas. To get an idea of what things I've been working on recently, check [this](/now). Have a good day! :)
+Over the years, I've developed many interests when it comes to computing, which are mentioned below in no particular order:
+- **blue teaming stuff**: detection engineering, incident response, security operations, cloud security, cyber threat intelligence, wireless and network security
+- **systems and low-level computing**: operating system internals, hypervisors, binary exploitation, reverse engineering, computer architecture and trusted computing
+- **other security stuff**: applied cryptography, networking, online privacy and digital security
+- **other computing interests**: infrastructure engineering, parallelism and compilers
+
+My contact information is available [here](/contact). To get an idea of the things that I've been working on recently, check [this](/now) out.
