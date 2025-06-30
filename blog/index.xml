@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blogs on s4dr0t1</title><link>https://s4dr0t1.cc/blog/</link><description>Recent content in Blogs on s4dr0t1</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate>Tue, 22 Apr 2025 01:20:50 +0530</lastBuildDate><atom:link href="https://s4dr0t1.cc/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Books that I recommend you should read</title><link>https://s4dr0t1.cc/blog/books/</link><pubDate>Fri, 18 Apr 2025 20:19:00 +0530</pubDate><guid>https://s4dr0t1.cc/blog/books/</guid><description>My book recommendations</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on s4dr0t1</title>
+    <link>https://s4dr0t1.cc/blog/</link>
+    <description>Recent content in Blogs on s4dr0t1</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2025 01:20:50 +0530</lastBuildDate>
+    <atom:link href="https://s4dr0t1.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books that I recommend you should read</title>
+      <link>https://s4dr0t1.cc/blog/books/</link>
+      <pubDate>Fri, 18 Apr 2025 20:19:00 +0530</pubDate>
+      <guid>https://s4dr0t1.cc/blog/books/</guid>
+      <description>My book recommendations</description>
+    </item>
+  </channel>
+</rss>

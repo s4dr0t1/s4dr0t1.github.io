@@ -1,19 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>s4dr0t1</title><link>https://s4dr0t1.cc/</link><description>Recent content on s4dr0t1</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 03:03:27 +0530</lastBuildDate><atom:link href="https://s4dr0t1.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>Books that I recommend you should read</title><link>https://s4dr0t1.cc/blog/books/</link><pubDate>Fri, 18 Apr 2025 20:19:00 +0530</pubDate><guid>https://s4dr0t1.cc/blog/books/</guid><description>My book recommendations</description></item><item><title>March Chronicle: Serious about Cryptography (This Time)</title><link>https://s4dr0t1.cc/now/2025/march/</link><pubDate>Sat, 22 Mar 2025 15:29:46 +0530</pubDate><guid>https://s4dr0t1.cc/now/2025/march/</guid><description>The beginning of a new habit</description></item><item><title>About me</title><link>https://s4dr0t1.cc/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://s4dr0t1.cc/about/</guid><description>&lt;p>Hello internet stranger! My name is Rohit and I am a threat detection engineer by trade, I currently work at &lt;a href="https://cred.club">CRED&lt;/a>, a leading fintech startup based in India and help secure their infrastructure &lt;em>day-in-day-out&lt;/em>.&lt;/p>
-&lt;p>I recently completed my bachelor&amp;rsquo;s degree in Computer Science and Engineering from &lt;a href="https://en.wikipedia.org/wiki/Malaviya_National_Institute_of_Technology,_Jaipur">MNIT Jaipur&lt;/a>.&lt;/p>
-&lt;p>I have been &lt;strong>extremely&lt;/strong> interested in computing from a very young age. I find it incredibly fulfilling to break things down, and then try to understand how they work from the ground up. When I&amp;rsquo;m not doing the &lt;em>tech&lt;/em> things, I indulge in other hobbies of mine: anime, gaming, gym, and music.&lt;/p></description></item><item><title>Contact me</title><link>https://s4dr0t1.cc/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://s4dr0t1.cc/contact/</guid><description>&lt;p>Best way to get in touch:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://www.linkedin.com/in/rohitdhill/">LinkedIn&lt;/a>&lt;/li>
-&lt;li>&lt;a href="mailto:hello@s4dr0t1.cc">Email&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://twitter.com/s4dr0t1">Twitter&lt;/a>&lt;/li>
-&lt;li>Discord: @s4dr0t1&lt;/li>
-&lt;/ul>
-&lt;p>My other handles:&lt;/p>
-&lt;ul>
-&lt;li>Social handles: &lt;a href="https://ioc.exchange/@s4dr0t1">Mastodon&lt;/a>, &lt;a href="https://lemmy.ml/u/s4dr0t1">Lemmy&lt;/a>, &lt;a href="https://www.reddit.com/user/s4dr0t1">Reddit&lt;/a>&lt;/li>
-&lt;li>Tech stuff: &lt;a href="https://github.com/s4dr0t1">GitHub&lt;/a>, &lt;a href="https://news.ycombinator.com/user?id=s4dr0t1">Hackernews&lt;/a>&lt;/li>
-&lt;li>Gaming / music / anime and the likes: &lt;a href="http://last.fm/user/s4dr0t1">last.fm&lt;/a>, &lt;a href="https://trakt.tv/users/s4dr0t1">Trakt&lt;/a>, &lt;a href="https://backloggd.com/u/s4dr0t1/">backloggd&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>You can download my public key from &lt;a href="https://keys.openpgp.org/pks/lookup?op=get&amp;amp;options=mr&amp;amp;search=0xB93E806F0DA033094B801EA69FA224D074C72FD9">here&lt;/a>. Most of my online identities have been cryptographically verified using Keyoxide and OpenPGP notations, which you can check &lt;a href="https://keyoxide.org/B93E806F0DA033094B801EA69FA224D074C72FD9">here&lt;/a>.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>Fingerprint:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>B93E 806F 0DA0 3309 4B80  1EA6 9FA2 24D0 74C7 2FD9
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>s4dr0t1</title>
+    <link>https://s4dr0t1.cc/</link>
+    <description>Recent content on s4dr0t1</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jun 2025 03:03:27 +0530</lastBuildDate>
+    <atom:link href="https://s4dr0t1.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books that I recommend you should read</title>
+      <link>https://s4dr0t1.cc/blog/books/</link>
+      <pubDate>Fri, 18 Apr 2025 20:19:00 +0530</pubDate>
+      <guid>https://s4dr0t1.cc/blog/books/</guid>
+      <description>My book recommendations</description>
+    </item>
+    <item>
+      <title>March Chronicle: Serious about Cryptography (This Time)</title>
+      <link>https://s4dr0t1.cc/now/2025/march/</link>
+      <pubDate>Sat, 22 Mar 2025 15:29:46 +0530</pubDate>
+      <guid>https://s4dr0t1.cc/now/2025/march/</guid>
+      <description>The beginning of a new habit</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://s4dr0t1.cc/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://s4dr0t1.cc/about/</guid>
+      <description>&lt;p&gt;Hello internet stranger! My name is Rohit and I am a threat detection engineer by trade, I currently work at &lt;a href=&#34;https://cred.club&#34;&gt;CRED&lt;/a&gt;, a leading fintech startup based in India and help secure their infrastructure &lt;em&gt;day-in-day-out&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I recently completed my bachelor&amp;rsquo;s degree in Computer Science and Engineering from &lt;a href=&#34;https://en.wikipedia.org/wiki/Malaviya_National_Institute_of_Technology,_Jaipur&#34;&gt;MNIT Jaipur&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have been &lt;strong&gt;extremely&lt;/strong&gt; interested in computing from a very young age. I find it incredibly fulfilling to break things down, and then try to understand how they work from the ground up. When I&amp;rsquo;m not doing the &lt;em&gt;tech&lt;/em&gt; things, I indulge in other hobbies of mine: anime, gaming, gym, and music.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>https://s4dr0t1.cc/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://s4dr0t1.cc/contact/</guid>
+      <description>&lt;p&gt;Best way to get in touch:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/rohitdhill/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hello@s4dr0t1.cc&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/s4dr0t1&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Discord: @s4dr0t1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My other handles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Social handles: &lt;a href=&#34;https://ioc.exchange/@s4dr0t1&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://lemmy.ml/u/s4dr0t1&#34;&gt;Lemmy&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/user/s4dr0t1&#34;&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tech stuff: &lt;a href=&#34;https://github.com/s4dr0t1&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://news.ycombinator.com/user?id=s4dr0t1&#34;&gt;Hackernews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gaming / music / anime and the likes: &lt;a href=&#34;http://last.fm/user/s4dr0t1&#34;&gt;last.fm&lt;/a&gt;, &lt;a href=&#34;https://trakt.tv/users/s4dr0t1&#34;&gt;Trakt&lt;/a&gt;, &lt;a href=&#34;https://backloggd.com/u/s4dr0t1/&#34;&gt;backloggd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can download my public key from &lt;a href=&#34;https://keys.openpgp.org/pks/lookup?op=get&amp;amp;options=mr&amp;amp;search=0xB93E806F0DA033094B801EA69FA224D074C72FD9&#34;&gt;here&lt;/a&gt;. Most of my online identities have been cryptographically verified using Keyoxide and OpenPGP notations, which you can check &lt;a href=&#34;https://keyoxide.org/B93E806F0DA033094B801EA69FA224D074C72FD9&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Fingerprint:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B93E 806F 0DA0 3309 4B80  1EA6 9FA2 24D0 74C7 2FD9
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
